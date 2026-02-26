@@ -29,9 +29,9 @@ In modern football, especially within the **KPL and East African regions**, the 
 - **Club Impact:** Empowers the "Touchline Assistant" with data-backed defensive adjustments.
 - **Tech:** Clojure, Parallel Simulation, Vector-based Time Travel.
 
-### 3. [The House Edge: Intelligence & ROI](https://github.com/dennisgathu8/house-hedge)
+### 3. [house-hedge: Proven Betting Intelligence (Transferable to Scouting ROI)](https://github.com/dennisgathu8/house-hedge)
 **Problem:** High-value player recruitment is often based on emotion rather than objective ROI.
-**Solution:** A betting-intelligence derived platform that detects sharp movements in player value and market inefficiencies.
+**Solution:** A platform built and run in a live betting environment → exact multi-agent + xG + ROI logic now being adapted for player valuation and recruitment optimization (Moneyball for KPL). Dedicated scouting fork in progress.
 - **Club Impact:** Optimized recruitment budget by targeting players with high "Tactical Upside" vs Market Value.
 - **Tech:** Clojure, Multi-Agent Risk Management.
 
@@ -50,6 +50,18 @@ In modern football, especially within the **KPL and East African regions**, the 
 
 ## 🇰🇪 The East African Vision
 As the son of a professional Kenyan player and coach, I am building the infrastructure for the next generation of **Harambee Stars** and **KPL** dominance. I am bridging the gap between elite European tech and regional football realities.
+
+---
+
+<details>
+<summary>📐 Technical Philosophy & Architecture Matrix</summary>
+
+I specialize in **Multi-Agent Systems (MAS)** and **Immutable Data Architectures**.
+- **Python Pipelines:** Focused on Zero-Trust reliability and Pydantic-enforced data integrity.
+- **Clojure Simulations:** Leverages structural sharing to simulate match realities in parallel without state corruption.
+- **Betting Pedigree:** Using high-frequency financial engineering to solve low-frequency sports scouting problems.
+
+</details>
 
 ---
 
